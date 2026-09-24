@@ -1,25 +1,41 @@
+<!--
+  Rahul G · GitHub Profile README — Reimagined
+  Design direction: engineering terminal × product portfolio
+  Palette: #020617 #0B1220 #0EA5E9 #22D3EE #A78BFA #E2E8F0
+-->
+
 <div align="center">
 
 <a href="https://github.com/Rahul-g-7">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0B1220,100:0EA5E9&height=260&section=header&text=RAHUL%20G&fontSize=78&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20CSBS%20Undergraduate&descAlignY=60&descSize=18&descColor=7DD3FC" width="100%" alt="Rahul G banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,55:0B1220,100:0EA5E9&height=250&section=header&text=RAHUL%20G&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%20%C2%B7%20%20CSBS%20UNDERGRADUATE&descAlignY=61&descSize=17&descColor=7DD3FC" width="100%" alt="Rahul G — Full-Stack Developer and CSBS undergraduate" />
 </a>
 
 <a href="https://github.com/Rahul-g-7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=760&height=50&lines=Curious+by+default.+Builder+by+choice.;Software+%C3%97+Systems+%C3%97+AI;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve;Understanding+every+layer+between+idea+and+deployment" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=22D3EE&center=true&vCenter=true&width=820&height=42&lines=Software+%C3%97+Systems+%C3%97+AI;Understand+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Diagnose+%E2%86%92+Improve;Building+from+idea+to+architecture+to+deployment" alt="Rahul's engineering tagline" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rahul-g-7&style=for-the-badge&label=PROFILE%20VIEWS&color=0EA5E9" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Rahul-g-7?style=for-the-badge&logo=github&color=0B1220&labelColor=0EA5E9" alt="Followers"/>
-<img src="https://img.shields.io/badge/Mysuru-India-0B1220?style=for-the-badge&logo=googlemaps&logoColor=0EA5E9" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collabs-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to"/>
+<a href="https://github.com/Rahul-g-7?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Repositories" /></a> <a href="https://github.com/Rahul-g-7?tab=followers"><img src="https://img.shields.io/github/followers/Rahul-g-7?style=for-the-badge&logo=github&logoColor=white&color=22D3EE&labelColor=020617" alt="Followers" /></a> <a href="https://github.com/Rahul-g-7"><img src="https://komarev.com/ghpvc/?username=Rahul-g-7&style=for-the-badge&label=PROFILE%20VIEWS&color=A78BFA&labelColor=020617" alt="Profile views" /></a>
+
+<br/><br/>
+
+<sub>
+  <a href="#-whoami">WHOAMI</a> &nbsp;·&nbsp;
+  <a href="#-what-i-build">FOCUS</a> &nbsp;·&nbsp;
+  <a href="#-selected-work">WORK</a> &nbsp;·&nbsp;
+  <a href="#-toolkit">TOOLKIT</a> &nbsp;·&nbsp;
+  <a href="#-how-i-build">METHOD</a> &nbsp;·&nbsp;
+  <a href="#-now--next--later">ROADMAP</a> &nbsp;·&nbsp;
+  <a href="#-github-pulse">GITHUB</a> &nbsp;·&nbsp;
+  <a href="#-connect">CONNECT</a>
+</sub>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:020617&height=2&section=header" width="100%" alt="" />
 
----
+<a id="-whoami"></a>
 
 <div align="center">
 
@@ -29,267 +45,435 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-### 👋 Hey, I'm Rahul
+### Building with intent.
 
 I'm a third-year **B.E. Computer Science and Business Systems** student at **JSS Science and Technology University, Mysuru**.
 
-I'm fascinated by the engineering *behind* modern software: how products are designed, how backends talk to each other, how systems scale under pressure, and how AI can become a genuinely useful part of real applications.
+I like the engineering beneath the interface: **backend systems, APIs, databases, architecture, infrastructure, and AI-powered applications**.
 
-I don't stop at tutorials. My loop is simple:
+My default loop is simple:
 
-> **understand the idea → build it → break it → find the reason → improve it.**
+> **Understand the idea → build it → break it → diagnose the why → improve it.**
 
-That last part, *find the reason*, is where the real learning lives.
-
-</td>
-<td width="45%" valign="top">
-
-```yaml
-name:        Rahul G
-role:        Full-Stack Developer
-university:  JSS STU, Mysuru
-degree:      B.E. CSBS (3rd year)
-location:    Mysuru, India 🇮🇳
-
-focus:
-  - Backend
-  - Systems
-  - AI
-
-exploring:
-  - System Design
-  - Agentic AI
-  - DevOps
-
-mindset: |
-  Learn → Build → Break
-  → Understand → Improve
-
-status:      building with intent ⚡
-```
+I am most interested in software that is not only functional, but also **explainable, maintainable, observable, and ready to grow**.
 
 </td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-## ⚡ What I'm Focused On
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-### 🧱 Software Engineering
-
-Backend development, APIs, databases, and architecture, plus writing software that stays **understandable as it grows**.
-
-<img src="https://img.shields.io/badge/APIs-0EA5E9?style=flat-square" alt="APIs"/>
-<img src="https://img.shields.io/badge/Databases-0EA5E9?style=flat-square" alt="Databases"/>
-<img src="https://img.shields.io/badge/Architecture-0EA5E9?style=flat-square" alt="Architecture"/>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🧠 AI Engineering
-
-LLM applications, agentic workflows, and intelligent systems that solve **practical problems**, not just demos.
-
-<img src="https://img.shields.io/badge/LangChain-0EA5E9?style=flat-square" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-0EA5E9?style=flat-square" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Agents-0EA5E9?style=flat-square" alt="Agents"/>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🏗️ Systems & Infrastructure
-
-System design, scalability, distributed systems, containers, and the decisions behind **reliable software**.
-
-<img src="https://img.shields.io/badge/System%20Design-0EA5E9?style=flat-square" alt="System Design"/>
-<img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square" alt="Docker"/>
-<img src="https://img.shields.io/badge/DevOps-0EA5E9?style=flat-square" alt="DevOps"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🛠️ Toolkit
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres&perline=10" alt="Tech stack row 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=python,docker,git,github,linux,postman,vscode,redis,nginx,aws&perline=10" alt="Tech stack row 2"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI%20Engineering-0B1220?style=for-the-badge&logo=openai&logoColor=0EA5E9" alt="AI Engineering"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0B1220?style=for-the-badge&logo=probot&logoColor=0EA5E9" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/LangChain-0B1220?style=for-the-badge&logo=langchain&logoColor=0EA5E9" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-0B1220?style=for-the-badge&logo=graphql&logoColor=0EA5E9" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/System%20Design-0B1220?style=for-the-badge&logo=diagramsdotnet&logoColor=0EA5E9" alt="System Design"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0B1220?style=for-the-badge&logo=fastapi&logoColor=0EA5E9" alt="REST APIs"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🔁 How I Learn
-
-</div>
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0B1220','primaryTextColor':'#E2E8F0','primaryBorderColor':'#0EA5E9','lineColor':'#0EA5E9','fontFamily':'monospace'}}}%%
-flowchart LR
-    A([💡 Understand<br/>the idea]) --> B([🔨 Build<br/>it])
-    B --> C([💥 Break<br/>it])
-    C --> D([🔍 Find the<br/>reason])
-    D --> E([🚀 Improve<br/>it])
-    E -. repeat .-> A
-```
-
-<br/>
-
----
-
-<div align="center">
-
-## 🧭 Engineering Principles
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧩 Fundamentals first**
-Frameworks change. Data structures, networks, and operating systems don't.
-
-**🔬 Understand *why*, not just *how***
-If I can't explain why it works, I don't understand it yet.
-
-</td>
-<td width="50%" valign="top">
-
-**🧼 Clarity over cleverness**
-Code is read far more than it's written. Future-me is a stakeholder.
-
-**🧪 Learn by breaking things**
-Failure modes teach more than happy paths ever will.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌱 Currently Levelling Up
-
-<table>
-<tr>
-<td align="center">
+<td width="40%" valign="top">
 
 ```text
-System Design       ██████████░░░░░░░░░░  in progress
-Agentic AI          ████████████░░░░░░░░  in progress
-DevOps & Docker     ██████████░░░░░░░░░░  in progress
-Backend Depth       ██████████████░░░░░░  in progress
+┌─ PROFILE ───────────────────────┐
+│                                 │
+│ role        Full-Stack Dev      │
+│ degree      B.E. CSBS           │
+│ year        3rd                  │
+│ university  JSS STU             │
+│ location    Mysuru, India       │
+│                                 │
+│ focus       Backend             │
+│             Systems             │
+│             AI                  │
+│                                 │
+│ learning    System Design       │
+│             Agentic AI          │
+│             DevOps              │
+│                                 │
+│ mode        BUILDING            │
+└─────────────────────────────────┘
 ```
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
----
+<a id="-what-i-build"></a>
 
 <div align="center">
 
-## 📊 GitHub, By The Numbers
-
-<!-- Live stats cards (cache_seconds keeps them refreshing; count_private removed as it only works when self-hosted) -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-g-7&show_icons=true&hide_border=true&bg_color=0B1220&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9&ring_color=0EA5E9&cache_seconds=14400" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-g-7&layout=compact&hide_border=true&bg_color=0B1220&title_color=0EA5E9&text_color=C9D1D9&langs_count=8&cache_seconds=14400" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Rahul-g-7&hide_border=true&background=0B1220&ring=0EA5E9&fire=0EA5E9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0EA5E9&sideLabels=7DD3FC&dates=94A3B8" alt="GitHub streak"/>
-
-<br/><br/>
-
-<!-- Contribution snake: generated by .github/workflows/snake.yml (pushes to the "output" branch) -->
-<img src="https://raw.githubusercontent.com/Rahul-g-7/Rahul-g-7/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
-
-<br/><br/>
-
-<!-- Self-generated metrics: created by .github/workflows/metrics.yml (needs METRICS_TOKEN secret).
-     This image stays broken until the workflow has run once. Delete this block if you skip that workflow. -->
-<img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
+## `> what I build`
 
 </div>
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### `01` · BACKEND
+
+**APIs that stay understandable.**
+
+REST APIs, authentication, databases, business logic, middleware, caching, and the engineering choices that make a backend easier to evolve.
+
+`Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `Redis`
+
+</td>
+<td width="33%" valign="top">
+
+### `02` · AI ENGINEERING
+
+**AI that does useful work.**
+
+LLM applications, agentic workflows, orchestration, and practical automation instead of isolated model demos.
+
+`LangChain` · `LangGraph` · `Groq` · `Agents`
+
+</td>
+<td width="33%" valign="top">
+
+### `03` · SYSTEMS
+
+**Software designed to scale.**
+
+System design, containers, service boundaries, reliability, deployment, and the trade-offs behind production-oriented systems.
+
+`Docker` · `Linux` · `Nginx` · `CI/CD`
+
+</td>
+</tr>
+</table>
+
 <br/>
 
----
+<a id="-selected-work"></a>
 
 <div align="center">
 
-## 🏆 Trophy Shelf
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul-g-7&theme=onedark&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10" alt="Trophies"/>
+## `> selected work`
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ SWARM.AI
+
+**A local multi-agent MVP factory.**
+
+A founder submits a raw startup idea and a LangGraph workflow coordinates **Analyst → Architect → Builder → Pitcher** stages. The current repository combines a Python backend with a React frontend and Groq-powered agents.
+
+**Built around**
+
+`Python` `LangGraph` `Groq` `React`
+
+<a href="https://github.com/Rahul-g-7/SWARM"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="View SWARM.AI repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ SHOPSPHERE
+
+**A full-stack MERN e-commerce application.**
+
+User registration, JWT authentication, product browsing, search, cart and orders are paired with an admin workflow for product and order management.
+
+**Built around**
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+<a href="https://github.com/Rahul-g-7/shopsphere"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-22D3EE?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" alt="View ShopSphere repository" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ BANKING_SYSTEM
+
+**A public repository in the profile.**
+
+Kept here as a dedicated project slot for backend-oriented work and future iteration.
+
+<a href="https://github.com/Rahul-g-7/banking_system"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="View banking_system repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ MORE IN THE LAB
+
+The public profile also contains smaller experiments and learning repositories.
+
+The goal is not to collect projects. It is to turn each one into a better understanding of **architecture, debugging, data flow, APIs, deployment, and trade-offs**.
+
+<a href="https://github.com/Rahul-g-7?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOS-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0B1220" alt="Browse all repositories" /></a>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
----
+<a id="-toolkit"></a>
 
 <div align="center">
 
-## 💬 Philosophy
+## `> toolkit`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=7DD3FC&center=true&vCenter=true&width=800&height=45&lines=Don't+just+learn+how+it+works.+Understand+why+it+works.;Concept+%E2%86%92+Architecture+%E2%86%92+Implementation+%E2%86%92+Deployment." alt="Philosophy"/>
+</div>
 
-I care about **fundamentals**, **clean thinking**, **practical experimentation**, and **continuous improvement**.
+<div align="center">
 
-The goal: become the kind of engineer who can take an idea from concept to architecture to implementation to deployment, and understand every layer in between.
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6&theme=dark" alt="Frontend stack" />
+
+### BACKEND · DATA
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,nginx&perline=6&theme=dark" alt="Backend and data stack" />
+
+### AI · INFRA · TOOLS
+
+<img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,postman,vscode&perline=7&theme=dark" alt="AI infrastructure and developer tools" />
+
+</div>
 
 <br/>
 
-### `Software  ×  Systems  ×  AI`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Learning every day. Building with intent. Staying curious.*
+**AI / AGENTIC**
+
+`LangChain` `LangGraph` `Groq` `LLM Apps` `Agent Workflows`
+
+</td>
+<td width="50%" valign="top">
+
+**ENGINEERING**
+
+`REST APIs` `Authentication` `System Design` `Caching` `Containerization`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/Rahul-g-7">
-  <img src="https://img.shields.io/badge/GitHub-Rahul--g--7-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a id="-how-i-build"></a>
+
+<div align="center">
+
+## `> how I build`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="20%"><strong>01</strong><br/>💡<br/><sub>UNDERSTAND</sub></td>
+<td align="center" width="20%"><strong>02</strong><br/>🔨<br/><sub>BUILD</sub></td>
+<td align="center" width="20%"><strong>03</strong><br/>💥<br/><sub>BREAK</sub></td>
+<td align="center" width="20%"><strong>04</strong><br/>🔍<br/><sub>DIAGNOSE</sub></td>
+<td align="center" width="20%"><strong>05</strong><br/>🚀<br/><sub>IMPROVE</sub></td>
+</tr>
+</table>
+
+```text
+                    ┌───────────────────┐
+                    │    REAL PROBLEM   │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │    UNDERSTAND     │
+                    │ requirements      │
+                    │ constraints       │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │       BUILD       │
+                    │ architecture      │
+                    │ implementation    │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │       BREAK       │
+                    │ edge cases        │
+                    │ failure modes     │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │      DIAGNOSE     │
+                    │ observe → reason  │
+                    │ fix root cause    │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │      IMPROVE      │
+                    │ simplify → scale │
+                    └─────────┴─────────┘
+                              ↺
+```
+
+<div align="center">
+<sub>Failure is not the opposite of learning. It is often the shortest path to understanding.</sub>
+</div>
+
+<br/>
+
+<a id="-engineering-principles"></a>
+
+<div align="center">
+
+## `> engineering principles`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` Fundamentals first
+
+Frameworks evolve. Core concepts like data structures, networking, operating systems, APIs, and databases remain the foundation.
+
+### `02` Understand the why
+
+Knowing that a system works is useful. Knowing **why** it works makes debugging and design much stronger.
+
+</td>
+<td width="50%" valign="top">
+
+### `03` Clarity over cleverness
+
+Readable code, explicit boundaries, sensible abstractions, and good naming beat unnecessary complexity.
+
+### `04` Learn by breaking things
+
+Happy paths prove a feature exists. Failure paths reveal whether the engineering is actually understood.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a id="-now--next--later"></a>
+
+<div align="center">
+
+## `> now / next / later`
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### NOW
+
+`System Design`<br/>
+`Agentic AI workflows`<br/>
+`Docker & DevOps`<br/>
+`Backend depth`
+
+</td>
+<td width="33%" valign="top">
+
+### NEXT
+
+`Distributed systems`<br/>
+`Observability & tracing`<br/>
+`CI/CD pipelines`<br/>
+`Production LLM apps`
+
+</td>
+<td width="33%" valign="top">
+
+### LATER
+
+`Kubernetes`<br/>
+`Event-driven design`<br/>
+`Open-source contributions`<br/>
+`Ship something people use`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Current learning signal
+
+```text
+SYSTEM DESIGN         █████████████░░░░░░░  deepening
+AGENTIC AI            ██████████████░░░░░░  deepening
+BACKEND ENGINEERING   ███████████████░░░░░  deepening
+DOCKER / DEVOPS       ████████████░░░░░░░░  building
+DISTRIBUTED SYSTEMS   ███████░░░░░░░░░░░░░  exploring
+```
+
+<br/>
+
+<a id="-github-pulse"></a>
+
+<div align="center">
+
+## `> github pulse`
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-g-7&show_icons=true&hide_border=true&bg_color=020617&title_color=0EA5E9&icon_color=22D3EE&text_color=C9D1D9&ring_color=0EA5E9&cache_seconds=21600" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-g-7&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9&langs_count=8&cache_seconds=21600" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0B1220,100:020617&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=20&fontColor=FFFFFF&fontAlignY=68" width="100%" alt="Footer"/>
+<img src="https://streak-stats.demolab.com?user=Rahul-g-7&hide_border=true&background=020617&ring=0EA5E9&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=7DD3FC&dates=94A3B8" alt="GitHub contribution streak" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-g-7&bg_color=020617&color=7DD3FC&line=0EA5E9&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+## `> trophy shelf`
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul-g-7&theme=onedark&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10" alt="GitHub trophies" />
+
+</div>
+
+<br/>
+
+<a id="-philosophy"></a>
+
+<div align="center">
+
+## `> philosophy`
+
+### **Software × Systems × AI**
+
+> Don't just learn how it works. Understand why it works.
+
+**Concept → Architecture → Implementation → Deployment → Feedback**
+
+I care about **fundamentals, clean thinking, practical experimentation, and continuous improvement**.
+
+<sub>Learning every day · building with intent · staying curious</sub>
+
+</div>
+
+<br/>
+
+<a id="-connect"></a>
+
+<div align="center">
+
+## `> connect`
+
+<a href="https://github.com/Rahul-g-7"><img src="https://img.shields.io/badge/GitHub-RAHUL--G--7-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub" /></a> <a href="https://github.com/Rahul-g-7?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-BROWSE-22D3EE?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" alt="Browse projects" /></a>
+
+<br/><br/>
+
+```text
+$ echo "Thanks for stopping by"
+Thanks for stopping by.
+$ _
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0B1220,100:020617&height=110&section=footer" width="100%" alt="" />
