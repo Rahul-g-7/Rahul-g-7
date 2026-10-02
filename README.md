@@ -52,29 +52,7 @@ I enjoy going beneath the abstraction — understanding what happens between a r
 I don't just want to use technology. I want to understand it well enough to build with it.
 
 </td>
-<td width="38%" valign="top">
 
-┌─ ABOUT ─────────────────────┐
-│                             │
-│ Rahul G                     │
-│ Full-Stack Developer        │
-│                             │
-│ B.E. · CSBS                 │
-│ JSS STU · Mysuru            │
-│ 3rd Year                    │
-│                             │
-│ interested in               │
-│  → Backend                  │
-│  → Systems                  │
-│  → AI                       │
-│                             │
-│ mindset                     │
-│  → curious                  │
-│  → experimental             │
-│  → improvement-driven       │
-└─────────────────────────────┘
-
-</td>
 </tr>
 </table>
 
@@ -260,8 +238,6 @@ Production LLM Applications
 
 > github
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul-g-7&show_icons=true&hide_border=true&bg_color=020617&title_color=0EA5E9&icon_color=22D3EE&text_color=C9D1D9&cache_seconds=21600" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-g-7&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9&langs_count=6&cache_seconds=21600" alt="Top languages" />
 
 <br/><br/>
 
